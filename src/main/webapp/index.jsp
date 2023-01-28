@@ -40,7 +40,7 @@ z
 				<div class="card crd-ho">
 					<div class="card-body text-center">
 						<img alt="" src="book/java.jpg"
-							style="width: 170px; height: 180px" class="img-thumblin">
+							style="width: 140px; height: 180px" class="img-thumblin">
 						<p>Java Programming</p>
 						<p>Balaguruswamy</p>
 						<p>Category:New</p>

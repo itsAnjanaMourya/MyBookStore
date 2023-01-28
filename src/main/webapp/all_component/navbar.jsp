@@ -19,7 +19,7 @@
 		</div>
 
 		<div class="col-md-3">
-			<a href="Login.jsp" class="btn btn-success"> <i class="fa-solid fa-right-to-bracket mr-1"></i>Login</a> <a href="Register.jsp"
+			<a href="Login.jsp" class="btn btn-success"> <i class="fa-solid fa-right-to-bracket mr-1"></i>Login</a> <a href="register.jsp"
 				class="btn btn-primary"> <i class="fa-solid fa-user-plus mr-1"></i>Register</a>
 
 		</div>

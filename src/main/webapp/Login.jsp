@@ -30,7 +30,7 @@
 						
 						<div class="text-center">
 							<button type="submit" class="btn btn-primary">Login</button><br>
-							<a href="Register.jsp">Create Account</a>
+							<a href="register.jsp">Create Account</a>
 						</div>
 					</form>
 
