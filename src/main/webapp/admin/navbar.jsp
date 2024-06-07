@@ -38,18 +38,9 @@
 
 	<div class="collapse navbar-collapse" id="navbarSupportedContent">
 		<ul class="navbar-nav mr-auto">
-			<li class="nav-item active"><a class="nav-link" href="#"> Home
+			<li class="nav-item active"><a class="nav-link" href="#">Home
 					<span class="sr-only">(current)</span>
 			</a></li>
-			<li class="nav-item active"><a class="nav-link" href="#"> <i class="fa-sharp fa-solid fa-book-open mr-1"></i>Recent Book</a></li>
-			<li class="nav-item active"><a class="nav-link" href="#"> <i class="fa-sharp fa-solid fa-book-open mr-1"></i>New Book</a></li>
-			
-			<li class="nav-item active"><a class="nav-link disabled" href="#"> <i class="fa-sharp fa-solid fa-book-open mr-1"></i>Old Book</a>
-			</li>
-		</ul>
-		<form class="form-inline my-2 my-lg-0">
-			<button class="btn btn-Light my-2 my-sm-0" type="submit"> <i class="fa-solid fa-gear mr-1"></i>Setting</button>
-			<button class="btn btn-Light my-2 my-sm-0 ml-1" type="submit"> <i class="fa-solid fa-square-phone mr-1"></i>Contact Us</button>
-		</form>
+			</ul>
 	</div>
-</nav>
+	</nav>
